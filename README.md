@@ -1,5 +1,5 @@
 # TESS_CVZ
-A repository for all the codes, figures and tables.
+A repository for all the codes, figures and tables for the paper Sreenivas et al. 2026
 
 Detection probabilities were calculated using: https://github.com/danhey/tess-atl \
 Global asteroseimic parameters were calculated using: https://github.com/ashleychontos/pySYD \
